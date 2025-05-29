@@ -21,9 +21,9 @@ Get your local weather with a touch of warmth and animation!
 ---
 
 ![Ghibli Weather Preview](assets/preview.png)
-![Ghibli Weather Preview](assets/preview(0).png)
-![Ghibli Weather Preview](assets/preview(1).png)
-![Ghibli Weather Preview](assets/preview(2).png)
+![Ghibli Weather Preview0](assets/preview(0).png)
+![Ghibli Weather Preview1](assets/preview(1).png)
+![Ghibli Weather Preview2](assets/preview(2).png)
 
 
 ---
